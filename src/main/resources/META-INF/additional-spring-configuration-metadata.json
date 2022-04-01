@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mybatis..log-impl",
+      "type": "java.lang.String",
+      "description": "Description for mybatis..log-impl."
+  }
+] }
